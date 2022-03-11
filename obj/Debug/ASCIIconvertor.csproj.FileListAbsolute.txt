@@ -1,0 +1,8 @@
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\obj\Debug\ASCIIconvertor.csproj.AssemblyReference.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\obj\Debug\ASCIIconvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\obj\Debug\ASCIIconvertor.csproj.CoreCompileInputs.cache
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\bin\Debug\ASCIIconvertor.exe.config
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\bin\Debug\ASCIIconvertor.exe
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\bin\Debug\ASCIIconvertor.pdb
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\obj\Debug\ASCIIconvertor.exe
+C:\Users\Klin_v1n\Desktop\c# практосы\ASCIIconv\ASCIIconvertor\obj\Debug\ASCIIconvertor.pdb
